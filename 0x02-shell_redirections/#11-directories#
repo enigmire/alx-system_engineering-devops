@@ -1,3 +1,0 @@
-llslsls
-s#!/bin/bash
-ls -lRa . | egrep -c '^'
