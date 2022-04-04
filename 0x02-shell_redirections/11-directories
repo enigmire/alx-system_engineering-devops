@@ -1,2 +1,2 @@
-#!/binbash
-ls -lRa .
+#!/bin/bash
+ls -lRa . | egrep -c '^'
