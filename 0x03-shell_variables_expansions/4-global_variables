@@ -1,2 +1,2 @@
-!#/bin/bash
-Y!VAR="you"
+#!/bin/bash
+MYVAR="you"
